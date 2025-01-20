@@ -22,7 +22,6 @@
   text-align: left;
   color: rgb(14, 14, 14);
 }
-
 .btn {
   box-sizing: border-box;
   border: 1px solid rgb(0, 106, 80);
@@ -34,12 +33,10 @@
   gap: 48;
   padding: 15px 30px 15px 30px;
 }
-
 .btn:hover {
   background-color: #228b22;
   color: white;
 }
-
 .Sign {
   color: rgb(0, 106, 80);
   font-family: Fira Sans;
@@ -49,7 +46,6 @@
   letter-spacing: 0%;
   text-align: left;
 }
-
 .main {
   display: flex;
   flex-direction: row;
@@ -62,7 +58,6 @@
   margin: 70px 160px;
   position: static;
 }
-
 .container {
   display: flex;
   flex-direction: column;
@@ -79,7 +74,6 @@
   align-self: stretch;
   flex-grow: 0;
 }
-
 .title {
   color: rgba(14, 14, 14, 0.5);
   font-family: Fira Sans;
@@ -100,7 +94,6 @@
   text-align: left;
   margin-top: 16px 0px;
 }
-
 .dev-btn {
   border-radius: 8px;
   background: rgb(0, 106, 80);
@@ -115,12 +108,10 @@
   margin: 24px 0px;
   gap: 48;
 }
-
 .dev-btn:hover {
   background-color: #228b22;
   color: white;
 }
-
 .second-title {
   color: rgb(14, 14, 14);
   font-family: Fira Sans;
@@ -151,7 +142,6 @@
   gap: 24;
   padding: 0px;
 }
-
 .thried-dev {
   position: static;
   width: 302px;
@@ -177,7 +167,6 @@
   margin: 12px 0px;
   padding: 0px;
 }
-
 .row-content {
   color: rgba(14, 14, 14, 0.7);
   font-family: Fira Sans;
@@ -189,7 +178,6 @@
   margin: 12px 0px;
   padding: 0px;
 }
-
 .second-section {
   display: flex;
   flex-direction: column;
@@ -226,7 +214,6 @@
   text-align: left;
   margin: 12px 80px;
 }
-
 .second-container {
   box-sizing: border-box;
   border-radius: 16px;
@@ -237,7 +224,6 @@
   width: 410.67px;
   height: 380px;
 }
-
 .container-headin {
   color: rgba(14, 14, 14, 0.8);
   font-family: Fira Sans;
@@ -275,7 +261,6 @@
 .container-btn:hover {
   background-color: aqua;
 }
-
 .section {
   display: flex;
   flex-direction: row;
@@ -301,7 +286,6 @@
   width: 1280px;
   height: 256px;
 }
-
 .sixth-content {
   color: rgba(14, 14, 14, 0.8);
   font-family: Fira Sans;
@@ -368,7 +352,6 @@
   gap: 12;
   padding: 0px;
 }
-
 #seventh-section {
   width: 1280px;
   height: 402px;
@@ -377,7 +360,6 @@
   display: flex;
   flex-direction: row;
 }
-
 .seventh-section {
   display: flex;
   width: 1280px;
@@ -392,7 +374,6 @@
   margin-left: 160px;
   align-items: center;
 }
-
 .seventimage1 {
   left: 50px;
   top: 50px;
@@ -401,7 +382,6 @@
   margin: 50px;
   border-radius: 24px;
 }
-
 .seventhbox {
   left: 500px;
   top: 60px;
@@ -411,12 +391,10 @@
   padding: 48px;
   gap: 16px;
 }
-
 .seventimage2 {
   width: 140px;
   height: 46px;
 }
-
 .time {
   left: 0;
   top: 102px;
@@ -430,7 +408,6 @@
   letter-spacing: 0%;
   text-align: left;
 }
-
 .seventhpera {
   left: 0;
   color: #0e0e0eb3;
@@ -440,7 +417,6 @@
   letter-spacing: 0%;
   text-align: left;
 }
-
 .seventbutton {
   left: 0;
   top: 242px;
@@ -452,12 +428,10 @@
   border: #006a50ff;
   margin-top: 26px;
 }
-
 .seventbutton:hover {
   background-color: rgb(244, 239, 162);
   color: black;
 }
-
 #eleven {
   width: 1280px;
   height: 480px;
@@ -469,7 +443,6 @@
   border-radius: 24px;
   margin: 32px 160px 32px 160px;
 }
-
 .eleventitle {
   width: 1024px;
   height: 30px;
@@ -479,7 +452,6 @@
   letter-spacing: 0%;
   text-align: center;
 }
-
 .elevensub {
   left: 0;
   top: 72px;
@@ -495,14 +467,12 @@
   margin-bottom: 25px;
   margin-top: 20px;
 }
-
 .elevenbox {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 24px;
 }
-
 .eleven-btn {
   left: 0;
   top: 0;
@@ -514,12 +484,10 @@
   color: black;
   margin-top: 25px;
 }
-
 .eleven-btn:hover {
   background-color: rgb(241, 193, 137);
   color: black;
 }
-
 .elevenbox2 {
   height: 20px;
   padding: 20px 422.5px;
@@ -527,7 +495,6 @@
   border: none;
   border-radius: 5px;
 }
-
 .eleven-btn2 {
   left: 564.5px;
   top: 408px;
@@ -539,12 +506,10 @@
   border: #006a50ff;
   margin-top: 32px;
 }
-
 .eleven-btn2:hover {
   background-color: rgb(186, 252, 166);
   color: black;
 }
-
 .twelve {
   width: 1024px;
   height: 316px;
@@ -568,13 +533,11 @@
   color: #0e0e0eb3;
   margin-bottom: 20px;
 }
-
 .twelve1 {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
 .twelve2 {
   width: 484px;
   height: 50px;
@@ -583,7 +546,6 @@
   border: none;
   border-collapse: collapse;
 }
-
 .twelve3 {
   width: 126px;
   height: 50px;
@@ -599,7 +561,6 @@
   background-color: rgb(113, 236, 179);
   color: black;
 }
-
 .twelve4 {
   margin-top: 26px;
 }
